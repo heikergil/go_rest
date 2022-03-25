@@ -7,7 +7,6 @@ import (
   "github.com/heikergil/go_rest/models"
 )
 
-
 type CreateUserInput struct {
   Name  string `json:"name" binding:"required"`
 }

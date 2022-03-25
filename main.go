@@ -3,7 +3,7 @@ package main
 import (
   "net/http"
   "github.com/gin-gonic/gin"
-
+  
   "github.com/heikergil/go_rest/models"
   "github.com/heikergil/go_rest/controllers"
 )
